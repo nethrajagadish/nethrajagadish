@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Namaskara, I'm Nethra!
+   Frontend Developer | UI/UX Enthusiast 
 
-<!--
-**nethrajagadish/nethrajagadish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 A Bit About Me
 
-Here are some ideas to get you started:
+🏗️ I build scalable and smooth web experiences.
+🎨 Obsessed with clean UI, smooth animations & intuitive UX.
+☕ Bangalore-based, so naturally powered by filter coffee & late-night debugging.
+🏎️ Love making websites fast, sleek, and interactive—because who likes a slow UI?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Tech Stack
+🛠️ React.js, Next.js, Tailwind CSS, Bootstrap
+⚡ JavaScript, TypeScript, 
+
+🚀 What I’m Up To
+📌 Experimenting with immersive UI—let’s make interfaces more fun!
+📌 Geeking out over aviation tech whenever I get the chance.
