@@ -1,12 +1,12 @@
 👋 Namaskara, I'm Nethra!
    Frontend Developer | UI/UX Enthusiast 
 
-💡 A Bit About Me
+💡 A Bit About Me<br>
 
-🏗️ I build scalable and smooth web experiences.
-🎨 Obsessed with clean UI, smooth animations & intuitive UX.
-☕ Bangalore-based, so naturally powered by filter coffee & late-night debugging.
-🏎️ Love making websites fast, sleek, and interactive—because who likes a slow UI?
+🏗️ I build scalable and smooth web experiences.<br>
+🎨 Obsessed with clean UI, smooth animations & intuitive UX.<br>
+☕ Bangalore-based, so naturally powered by filter coffee & late-night debugging.<br>
+🏎️ Love making websites fast, sleek, and interactive—because who likes a slow UI?<br>
 
 🔥 Tech Stack
 🛠️ React.js, Next.js, Tailwind CSS, Bootstrap
